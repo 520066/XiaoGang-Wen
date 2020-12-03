@@ -61,7 +61,6 @@
   0.2 要素  态射集合 : 任意两个对象 a,b. 唯一集合 hom(a,b), 从 a 到 b 的一个态射.
   
          态射 f:a-->b,  a 是 f 的定义域，为 dom f ; b 是 f 的值域，为 cod f .
-         
          恒等态射 I_a 属于 hom(a,a) . a = b 时， 集合 hom(a,a) 非空，有唯一 I_a .
          
   0.3 运算  复合运算  hom(a,b) 直乘 hom(b,c) --> hom(a,c)
